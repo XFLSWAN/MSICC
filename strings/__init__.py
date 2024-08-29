@@ -3,6 +3,8 @@ from typing import List
 
 import yaml
 
+LOGGERS = "InflexOwnerBot"
+
 languages = {}
 languages_present = {}
 
